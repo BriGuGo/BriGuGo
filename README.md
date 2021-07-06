@@ -1,7 +1,7 @@
 <img src="GitHubBrianAboutMeBanner.jpg">
 
 - 👋 Hi, I’m Brian Gu
-- 🏫 I'm currently a Highschooler apart of the class of 2023
+- 🏫 I'm currently a student in High School apart of the class of 2023
 - 👀 I’m interested in Technology, Soccer, Track and Field
 - ⭐ My Hobbies are gaming, watching anime, running, boating
 - 🌱 I’m currently learning C# with Computer Applications
