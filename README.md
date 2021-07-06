@@ -1,4 +1,4 @@
-<img src="BriGuGo/BriGuGo/blob/main/GitHubBrianAboutMeBanner.jpg">
+<img src="GitHubBrianAboutMeBanner.jpg">
 - 👋 Hi, I’m Brian Gu
 - 🏫 I'm currently a Highschooler apart of the class of 2023
 - 👀 I’m interested in Technology, Soccer, Track and Field
