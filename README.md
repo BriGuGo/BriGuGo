@@ -7,3 +7,5 @@
 - 🌱 I’m currently learning C# with Computer Applications
 - 🔎 I'm looking for oppurtunites to collaborate with other people and make connections
 - 📚 I know a bit of C++ and Python, but I plan to learn more this summer
+
+<div id="rectangle" color="Black">
