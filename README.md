@@ -8,4 +8,5 @@
 - 🔎 I'm looking for oppurtunites to collaborate with other people and make connections
 - 📚 I know a bit of C++ and Python, but I plan to learn more this summer
 
-<div style="width:500px;height:100px;border:1px solid #000;">
+<img src="BlackBarBrianGitHub.jpg">
+
