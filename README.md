@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Brian Gu
+- 👀 I’m interested in Anime, RPG Games, Soccer, Track and Field
+- 🌱 I’m currently learning C# with Computer Applications
