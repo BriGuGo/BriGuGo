@@ -8,4 +8,8 @@
 - 🔎 I'm looking for oppurtunites to collaborate with other people and make connections
 - 📚 I know a bit of C++ and Python, but I plan to learn more this summer
 
-<div id="rectangle" color="Black">
+#rectangle {
+    width: 220px;
+    height: 120px;
+    background: #4da1f7;
+}
